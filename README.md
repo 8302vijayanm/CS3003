@@ -1,1 +1,12 @@
-# CS3003
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Registration Form</title>
+ <\head>
+<body>
+    <h1>Registration form</h1>
+     <form>
+     Name:
+     </form>
+</body>
+</html>
